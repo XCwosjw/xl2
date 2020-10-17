@@ -1,0 +1,7 @@
+{
+  "name": "proxy",
+  "version": 2,
+  "routes": [
+    {"src": "/(.*)","dest": "http://cf.xcwosjw.com/$1"}
+  ]
+}
